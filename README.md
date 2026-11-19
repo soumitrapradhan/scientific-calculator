@@ -8,7 +8,7 @@ A responsive scientific calculator built with plain HTML, CSS and JavaScript, wi
 
 | Dark theme | Light theme |
 |------------|-------------|
-| ![Dark theme](screenshots/dark.png) | ![Light theme](screenshots/light.png) |
+| ![Dark theme](dark.png) | ![Light theme](light.png) |
 
 > To add these: open the live demo, take a screenshot in each theme, save them as `dark.png` and `light.png`, and upload them to a `screenshots` folder in this repository.
 
