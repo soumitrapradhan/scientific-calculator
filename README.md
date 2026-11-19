@@ -2,7 +2,7 @@
 
 A responsive scientific calculator built with plain HTML, CSS and JavaScript, with an animated particle background and a light/dark theme.
 
-**Live demo:** https://YOUR-USERNAME.github.io/scientific-calculator/
+**Live demo:** https://soumitrapradhan.github.io/scientific-calculator/
 
 ## Screenshots
 
